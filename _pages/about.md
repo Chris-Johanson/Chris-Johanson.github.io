@@ -2,7 +2,9 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/cornell.png"
+  image: "/images/zakim.jpg"
 ---
 
-I'm a Junior studying Computer Science in the College of Engineering at Cornell University
+I'm a senior data scientist who excels at machine learning, exploratory analysis, and data visualizations.
+
+Etc, etc, etc

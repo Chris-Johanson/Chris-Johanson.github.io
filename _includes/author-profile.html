@@ -8,14 +8,14 @@
       {% if author.avatar contains "://" %}
         {% assign author_src = author.avatar %}
       {% else %}
-        {% assign author_src = author.avatar | relative_url %}
+        {% assign author_src = author.avatar | absolute_url %}
       {% endif %}
 
       {% if author.home %}
         {% if author.home contains "://" %}
           {% assign author_link = author.home %}
         {% else %}
-          {% assign author_link = author.home | relative_url %}
+          {% assign author_link = author.home | absolute_url %}
         {% endif %}
         <a href="{{ author_link }}">
           <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
@@ -46,14 +46,6 @@
         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
         </li>
-      {% endif %}
-
-      {% if author.links %}
-        {% for link in author.links %}
-          {% if link.label and link.url %}
-            <li><a href="{{ link.url }}"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-          {% endif %}
-        {% endfor %}
       {% endif %}
 
       {% if author.uri %}
