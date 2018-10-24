@@ -5,14 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name"
+title                    : "Chris Johanson"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "Data Science Portfolio"
+name                     : "Chris Johanson"
+description              : "Personal Website and Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,11 +84,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Your Location"
-  email            :
+  name             : "Chris Johanson"
+  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Computer science student at Cornell University, artist, rugby player, creator"
+  location         : "Ithaca, NY"
+  email            : "caj94@cornell.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,11 +97,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
+  github           : "Chris-Johanson"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "c_johandsom"
   lastfm           :
   linkedin         : "dataoptimal" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
