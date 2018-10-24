@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Chris Johanson"
-  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/me.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer science student at Cornell University, artist, rugby player, creator"
   location         : "Ithaca, NY"
   email            : "caj94@cornell.edu"
