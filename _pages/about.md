@@ -5,4 +5,4 @@ header:
   image: "/images/cornell.png"
 ---
 
-I'm a student at Cornell University studying Computer Science in the College of Engineering. I also play rugby for the Cornell University Rugby Football Club
+I grew up in Cleveland OH, and became enrolled in the College of Engineering at Cornell University upon graduation from Hudson High School. I am currently a Junior studying computer science, and expect to graduate with a B.S. in Computer Science in 2020. I also play rugby for the Cornell University Rugby Football Club, and am a member of the Pi Kappa Alpha: Beta Theta chapter at Cornell. 
