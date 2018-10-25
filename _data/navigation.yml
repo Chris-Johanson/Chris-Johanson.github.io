@@ -8,6 +8,8 @@ main:
     url: /creative/
   - title: "Sample Collections"
     url: /collection-archive/
+  -title: "Portfolio"
+    url: /portfolio/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
