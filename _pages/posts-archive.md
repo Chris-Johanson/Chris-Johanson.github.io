@@ -6,14 +6,14 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/library.jpg
+  overlay_image: /images/cle.jpg
   actions:
     - label: #"Download"
       url: #"https://github.com/mmistakes/minimal-mistakes/"
   caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Posts sorted by category."
 feature_row_l1:
-- image_path: /images/desk2.jpg
+- image_path: /images/code.jpg
   alt: "placeholder image 2"
   title: "Computer Science"
   excerpt: 'Posts about computer science.'
@@ -21,9 +21,9 @@ feature_row_l1:
   btn_label: "View"
   btn_class: "btn--primary"
 feature_row_r1:
-- image_path: /images/blank.jpg
+- image_path: /images/books.jpg
   alt: "placeholder image 2"
-  title: "Writing and Art."
+  title: "Creative"
   excerpt: 'Artwork and different pieces of writing.'
   url: /creative/
   btn_label: "View"
