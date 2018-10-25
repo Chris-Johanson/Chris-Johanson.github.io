@@ -248,6 +248,9 @@ collections:
   creative-portfolio:
     output: true
     permalink: /:collection/:path/
+  artwork-portfolio:
+    output: true
+    permalink: /:collection/:path/
   post-types:
     output: true
     permalink: /:collection/:path/
