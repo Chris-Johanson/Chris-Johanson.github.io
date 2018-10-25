@@ -7,7 +7,7 @@ main:
   - title: "Creative"
     url: /creative/
   - title: "Posts"
-    url: /creative-posts/
+    url: /post-types/
   - title: "Portfolio"
     url: /portfolio/
   # - title: "About"
