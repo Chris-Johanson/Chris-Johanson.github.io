@@ -1,5 +1,5 @@
 ---
-title: Creative
+title: Writing Portfolio
 layout: collection
 permalink: /creative-portfolio/
 collection: creative-portfolio

@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Computer Science Portfolio
 layout: collection
 permalink: /comp-sci-portfolio/
 collection: comp-sci-portfolio
