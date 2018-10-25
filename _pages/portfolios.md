@@ -8,9 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/library.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+    - label: #"Download"
+      url: #"https://github.com/mmistakes/minimal-mistakes/"
+  caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Always improving."
 intro:
   - excerpt: 'A selection of works that I believe showcase my abilities and interests.'
@@ -38,14 +38,7 @@ feature_row_l2:
   url: /comp-sci-portfolio/
   btn_label: "View"
   btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -55,5 +48,3 @@ feature_row4:
 {% include feature_row id="feature_row_r1" type="right" %}
 
 {% include feature_row id="feature_row_l2" type="left" %}
-
-{% include feature_row id="feature_row4" type="center" %}
