@@ -1,8 +1,8 @@
 ---
 title: Creative
 layout: collection
-permalink: /creative/
-collection: creative
+permalink: /creative-portfolio/
+collection: creative-portfolio
 entries_layout: grid
 classes: wide
 ---

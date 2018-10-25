@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Showcase"
+    url: /showcase/
   - title: "Creative"
     url: /creative/
   - title: "Posts"
