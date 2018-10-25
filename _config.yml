@@ -248,6 +248,9 @@ collections:
   creative:
     output: true
     permalink: /:collection/:path/
+  post-types:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

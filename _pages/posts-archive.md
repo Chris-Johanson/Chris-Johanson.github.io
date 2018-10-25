@@ -1,8 +1,8 @@
 ---
 title: Portfolio
 layout: collection
-permalink: /creative-posts/
-collection: creative-posts
+permalink: /post-types/
+collection: post-types
 entries_layout: grid
 classes: wide
 ---
