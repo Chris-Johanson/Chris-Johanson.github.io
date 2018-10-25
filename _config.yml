@@ -245,6 +245,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  creative:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
