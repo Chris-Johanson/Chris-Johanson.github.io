@@ -2,14 +2,13 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Computer Science"
-    url: /comp-sci/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Creative"
     url: /creative/
   - title: "Posts"
     url: /post-types/
-  - title: "Portfolio"
-    url: /portfolio/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
