@@ -242,10 +242,10 @@ compress_html:
     envs: development
 
 collections:
-  portfolio:
+  comp-sci-portfolio:
     output: true
     permalink: /:collection/:path/
-  creative:
+  creative-portfolio:
     output: true
     permalink: /:collection/:path/
   post-types:
