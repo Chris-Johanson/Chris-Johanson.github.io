@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Machine Learning"
-    url: /machine-learning/
+  - title: "Computer Science"
+    url: /comp-sci/
   - title: "Creative"
     url: /creative/
   - title: "Posts"
