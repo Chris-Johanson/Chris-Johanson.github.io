@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "Showcase"
     url: /showcase/
-  - title: "Creative"
-    url: /creative/
   - title: "Posts"
     url: /post-types/
 
