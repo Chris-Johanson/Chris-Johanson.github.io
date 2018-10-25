@@ -1,5 +1,5 @@
 ---
-layout: machine-learning-posts
+layout: comp-sci-posts
 permalink: /comp-sci/
 title: "Computer Science Posts By Tag"
 author_profile: true
