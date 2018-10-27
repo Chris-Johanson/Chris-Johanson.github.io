@@ -3,6 +3,7 @@ title: "Machine Learning Project: Perceptron"
 date: 2018-01-28
 tags: [machine learning, data science, neural network]
 categories: Computer-Science
+layout: single
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Machine Learning, Perceptron, Data Science"
