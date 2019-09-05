@@ -35,7 +35,7 @@ feature_row_l2:
   alt: "placeholder image 2"
   title: "Artwork"
   excerpt: 'A collection of drawing and other artwork created by me.'
-  url: /artwork-portfolio/
+  url: /art-portfolio/
   btn_label: "View"
   btn_class: "btn--primary"
 
