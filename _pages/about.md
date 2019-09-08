@@ -7,28 +7,28 @@ toc: true
 toc_label: "About Me"
 ---
 
-# H1 BACKGROUND  
+## BACKGROUND  
 I am currently a Senior studying computer science in the Engineering College at Cornell University, and expect to graduate with a B.S. in Computer Science in 2020. I also play rugby for the Cornell University Rugby Football Club, and am a member of the Pi Kappa Alpha: Beta Theta chapter at Cornell.
 
-# H1 PROFESSIONAL SUMMARY  
+## PROFESSIONAL SUMMARY  
 Self-motivated and driven Computer Science major, with an extensive course history in software design. Passionate creator, with experience designing and prototyping robotics, composing music, and developing machine learning applications. Laid back and cooperative personality with the ability to work well in deadline-driven, team-oriented environments.
 
 
-EDUCATION  
+## EDUCATION  
 Cornell University, College of Engineering, Ithaca, NY
 Candidate for Bachelor of Science Degree, May 2020
 Concentration: Computer Science
 Cumulative GPA: 2.8
 
 
-RELEVANT COURSES  
+## RELEVANT COURSES  
 Design Data Structs Honors (2112) 	Discrete Structures (2800) 	Data Struct & Functional Progr (3110)
 Intro Game Architecture (3152) 	Systems Programming (3410) 	Intro to Database Systems (4320)
 Operating Systems (4410) 	Foundations of Artif Inllgnce (4700) 	Foundations of Robotics (4750)
 Machine Learning Intell Sys (4780) 	Intro Analysis of Algorithms (4820) 	Probability Models & Inference (3080)
 
 
-EXPERIENCE  
+## EXPERIENCE  
 Cornell University  Ithaca, NY	Summer 2019
 IT Assistant
 •	Tested websites and performed troubleshooting prior to deployment
@@ -43,7 +43,7 @@ Junior Programmer
 •	Worked closely with a team of professional programmers to update and redesign the Cornell Business School website
 
 
-SKILLS & ACTIVITIES  
+## SKILLS & ACTIVITIES  
 Programming Languages 	Java, Python, C/C++, HTML, CSS, SQL, Javascript, ROS
 Robotics 	CAD design of functional parts, Control systems programming
 Video Game Design 	Software lead of development team, Physics engine design/implementation, creation of original soundtrack
