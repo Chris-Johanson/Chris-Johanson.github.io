@@ -7,10 +7,10 @@ toc: true
 toc_label: "About Me"
 ---
 
-#H1 BACKGROUND  
+# H1 BACKGROUND  
 I am currently a Senior studying computer science in the Engineering College at Cornell University, and expect to graduate with a B.S. in Computer Science in 2020. I also play rugby for the Cornell University Rugby Football Club, and am a member of the Pi Kappa Alpha: Beta Theta chapter at Cornell.
 
-#H1 PROFESSIONAL SUMMARY  
+# H1 PROFESSIONAL SUMMARY  
 Self-motivated and driven Computer Science major, with an extensive course history in software design. Passionate creator, with experience designing and prototyping robotics, composing music, and developing machine learning applications. Laid back and cooperative personality with the ability to work well in deadline-driven, team-oriented environments.
 
 
