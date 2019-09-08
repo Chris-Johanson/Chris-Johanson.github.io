@@ -20,19 +20,22 @@ Cornell University, College of Engineering, Ithaca, NY
 Candidate for Bachelor of Science Degree, May 2020  
 Concentration: Computer Science
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 
 ## RELEVANT COURSES  
-| a | b | c |
-|----|----|----|
-| Design Data Structs Honors (2112) |	Discrete Structures (2800) |	Data Struct & Functional Progr (3110) |
-| Intro Game Architecture (3152) | Systems Programming (3410) | Intro to Database Systems (4320) |
-| Operating Systems (4410) | Foundations of Artif Inllgnce (4700) | Foundations of Robotics (4750) |
-| Machine Learning Intell Sys (4780) | Intro Analysis of Algorithms (4820) | Probability Models & Inference (3080) |
+| Course      | Description |
+| ----------- | ----------- |
+| CS 2112 | Design Data Structs Honors |
+| CS 2800  | Discrete Structures |
+| CS 3080  | Probability Models & Inference |
+| CS 3110  | Data Struct & Functional Progr |
+| CS 3152  | Intro Game Architecture |
+| CS 3410  | Systems Programming |
+| CS 4320  | Intro to Database Systems |
+| CS 4410  | Operating Systems |
+| CS 4700  | Foundations of Artif Inllgnce |
+| CS 4750  | Foundations of Robotics |
+| CS 4780  | Machine Learning Intell Sys |
+| CS 4820  | Intro Analysis of Algorithms |
 
 
 ## EXPERIENCE  
