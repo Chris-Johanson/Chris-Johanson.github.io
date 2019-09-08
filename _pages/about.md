@@ -18,7 +18,6 @@ Self-motivated and driven Computer Science major, with an extensive course histo
 Cornell University, College of Engineering, Ithaca, NY
 Candidate for Bachelor of Science Degree, May 2020
 Concentration: Computer Science
-Cumulative GPA: 2.8
 
 
 ## RELEVANT COURSES  
