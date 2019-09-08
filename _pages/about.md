@@ -3,9 +3,12 @@ title: "About"
 permalink: /about/
 header:
   image: "/images/cornell.png"
+toc: true
+toc_label: "About Me"
+toc_icon: "cog"
 ---
 
-Background
+BACKGROUND
 I am currently a Senior studying computer science in the Engineering College at Cornell University, and expect to graduate with a B.S. in Computer Science in 2020. I also play rugby for the Cornell University Rugby Football Club, and am a member of the Pi Kappa Alpha: Beta Theta chapter at Cornell.
 
 PROFESSIONAL SUMMARY  
