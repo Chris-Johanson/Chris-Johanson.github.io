@@ -23,7 +23,7 @@ Concentration: Computer Science
 
 ## RELEVANT COURSES  
 | Course      | Description |
-| ----------- | ----------- |
+| ----------- | ------------------------------ |
 | CS 2112 | Design Data Structs Honors |
 | CS 2800  | Discrete Structures |
 | CS 3080  | Probability Models & Inference |
