@@ -22,6 +22,7 @@ Concentration: Computer Science
 
 
 ## RELEVANT COURSES  
+
 | Course      | Description |
 | ----------- | ------------------------------ |
 | CS 2112 | Design Data Structs Honors |
