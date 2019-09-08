@@ -22,6 +22,7 @@ Concentration: Computer Science
 
 
 ## RELEVANT COURSES  
+| a | b | c |
 |---|---|---|
 | Design Data Structs Honors (2112) |	Discrete Structures (2800) |	Data Struct & Functional Progr (3110) |
 | Intro Game Architecture (3152) | Systems Programming (3410) | Intro to Database Systems (4320) |
