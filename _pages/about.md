@@ -5,6 +5,7 @@ header:
   image: "/images/cornell.png"
 toc: true
 toc_label: "About Me"
+toc_sticky: true
 ---
 
 ## BACKGROUND  
