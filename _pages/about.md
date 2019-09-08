@@ -22,10 +22,10 @@ Concentration: Computer Science
 
 
 ## RELEVANT COURSES  
-Design Data Structs Honors (2112) 	Discrete Structures (2800) 	Data Struct & Functional Progr (3110)  
-Intro Game Architecture (3152) 	Systems Programming (3410) 	Intro to Database Systems (4320)  
-Operating Systems (4410) 	Foundations of Artif Inllgnce (4700) 	Foundations of Robotics (4750)  
-Machine Learning Intell Sys (4780) 	Intro Analysis of Algorithms (4820) 	Probability Models & Inference (3080)  
+| Design Data Structs Honors (2112) |	Discrete Structures (2800) |	Data Struct & Functional Progr (3110) |
+| Intro Game Architecture (3152) | Systems Programming (3410) | Intro to Database Systems (4320) |
+| Operating Systems (4410) | Foundations of Artif Inllgnce (4700) | Foundations of Robotics (4750) |
+| Machine Learning Intell Sys (4780) | Intro Analysis of Algorithms (4820) | Probability Models & Inference (3080) |
 
 
 ## EXPERIENCE  
@@ -50,4 +50,4 @@ Video Game Design 	Software lead of development team, Physics engine design/impl
 Machine Learning 	Experience designing intelligent systems based upon variety of methods; Neural Network/Multi-Layer Perceptron, KNN, Decision Trees, SVM
 Campus Involvement 	Cornell University Rugby Football Club - Player and Recruit Chair
 Cornell Barbell - Member  
-Pi Kappa Alpha, Beta Theta Chapter - Member 
+Pi Kappa Alpha, Beta Theta Chapter - Member
