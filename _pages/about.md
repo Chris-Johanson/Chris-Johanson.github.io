@@ -47,7 +47,7 @@ Concentration: Computer Science
 *	Designed, implemented and monitored web pages and sites for continuous improvement  
 
 
-### Cornell University  Ithaca, NY	Summer 2018  
+### Cornell University  <div style="text-align: right"> Ithaca, NY	Summer 2018 </div>  
 #### Junior Programmer
 *	Collected and organized back-end data by writing programs in Javascript, utilizing Google Sheets and Workfront API's  
 *	Designed and wrote prototype a machine learning program to estimate completion time of tasks using a neural network structure
