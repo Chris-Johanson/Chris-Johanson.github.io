@@ -40,15 +40,15 @@ Concentration: Computer Science
 
 
 ## EXPERIENCE  
-Cornell University  Ithaca, NY	Summer 2019  
-IT Assistant  
+### Cornell University  Ithaca, NY	Summer 2019  
+#### IT Assistant  
 *	Tested websites and performed troubleshooting prior to deployment
 *	Analyzed requirements and designed, developed and implemented software applications for multiple websites
 *	Designed, implemented and monitored web pages and sites for continuous improvement  
 
 
-Cornell University  Ithaca, NY	Summer 2018  
-Junior Programmer
+### Cornell University  Ithaca, NY	Summer 2018  
+#### Junior Programmer
 *	Collected and organized back-end data by writing programs in Javascript, utilizing Google Sheets and Workfront API's  
 *	Designed and wrote prototype a machine learning program to estimate completion time of tasks using a neural network structure
 *	Worked closely with a team of professional programmers to update and redesign the Cornell Business School website
