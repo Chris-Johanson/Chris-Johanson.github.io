@@ -42,23 +42,26 @@ Concentration: Computer Science
 ## EXPERIENCE  
 Cornell University  Ithaca, NY	Summer 2019  
 IT Assistant  
-•	Tested websites and performed troubleshooting prior to deployment
-•	Analyzed requirements and designed, developed and implemented software applications for multiple websites
-•	Designed, implemented and monitored web pages and sites for continuous improvement  
+*	Tested websites and performed troubleshooting prior to deployment
+*	Analyzed requirements and designed, developed and implemented software applications for multiple websites
+*	Designed, implemented and monitored web pages and sites for continuous improvement  
 
 
 Cornell University  Ithaca, NY	Summer 2018  
 Junior Programmer
-•	Collected and organized back-end data by writing programs in Javascript, utilizing Google Sheets and Workfront API's  
-•	Designed and wrote prototype a machine learning program to estimate completion time of tasks using a neural network structure
-•	Worked closely with a team of professional programmers to update and redesign the Cornell Business School website
+*	Collected and organized back-end data by writing programs in Javascript, utilizing Google Sheets and Workfront API's  
+*	Designed and wrote prototype a machine learning program to estimate completion time of tasks using a neural network structure
+*	Worked closely with a team of professional programmers to update and redesign the Cornell Business School website
 
 
 ## SKILLS & ACTIVITIES  
-Programming Languages 	Java, Python, C/C++, HTML, CSS, SQL, Javascript, ROS
-Robotics 	CAD design of functional parts, Control systems programming
-Video Game Design 	Software lead of development team, Physics engine design/implementation, creation of original soundtrack
-Machine Learning 	Experience designing intelligent systems based upon variety of methods; Neural Network/Multi-Layer Perceptron, KNN, Decision Trees, SVM
-Campus Involvement 	Cornell University Rugby Football Club - Player and Recruit Chair
-Cornell Barbell - Member  
-Pi Kappa Alpha, Beta Theta Chapter - Member
+Programming Languages 	
+: Java, Python, C/C++, HTML, CSS, SQL, Javascript, ROS
+Robotics 	
+: CAD design of functional parts, Control systems programming
+Video Game Design
+: Software lead of development team, Physics engine design/implementation, creation of original soundtrack
+Machine Learning
+: Experience designing intelligent systems based upon variety of methods; Neural Network/Multi-Layer Perceptron, KNN, Decision Trees, SVM
+Campus Involvement
+: Cornell University Rugby Football Club - Player and Recruit Chair, Cornell Barbell - Member, Pi Kappa Alpha, Beta Theta Chapter - Member
