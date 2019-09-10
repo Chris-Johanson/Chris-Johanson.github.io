@@ -57,11 +57,15 @@ Junior Programmer
 ## SKILLS & ACTIVITIES  
 Programming Languages 	
 : Java, Python, C/C++, HTML, CSS, SQL, Javascript, ROS
+
 Robotics 	
 : CAD design of functional parts, Control systems programming
+
 Video Game Design
 : Software lead of development team, Physics engine design/implementation, creation of original soundtrack
+
 Machine Learning
 : Experience designing intelligent systems based upon variety of methods; Neural Network/Multi-Layer Perceptron, KNN, Decision Trees, SVM
+
 Campus Involvement
 : Cornell University Rugby Football Club - Player and Recruit Chair, Cornell Barbell - Member, Pi Kappa Alpha, Beta Theta Chapter - Member
