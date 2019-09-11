@@ -41,7 +41,7 @@ Concentration: Computer Science
 
 ## EXPERIENCE  
 ### Cornell University
-### : Ithaca, NY - Summer 2019  
+#### Ithaca, NY - Summer 2019  
 
 #### IT Assistant  
 *	Tested websites and performed troubleshooting prior to deployment
@@ -50,7 +50,7 @@ Concentration: Computer Science
 
 
 ### Cornell University
-### : Ithaca, NY - Summer 2018
+#### Ithaca, NY - Summer 2018
 
 #### Junior Programmer
 *	Collected and organized back-end data by writing programs in Javascript, utilizing Google Sheets and Workfront API's  
